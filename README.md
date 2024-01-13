@@ -2,7 +2,7 @@
 I am an 18 year old student based in India.
 <br><ul>
   <li>I’m currently learning java</li>
-  <li>Reach me through my <a href="shahpurva3010@gmail.com">mail</a></li>
+  <li>Reach me through my <a href="mailto: shahpurva3010@gmail.com">mail</a></li>
   <li>I'm still a beginner</li>
 </ul>.
 
