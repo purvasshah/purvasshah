@@ -4,7 +4,7 @@ I am an 18 year old student based in India.
   <li>I’m currently learning java and python</li>
   <li>Reach me through my <a href="mailto: shahpurva3010@gmail.com">mail</a></li>
   <li>I'm still a beginner</li>
-</ul>.
+</ul>
 
 <!---
 purvasshah/purvasshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
